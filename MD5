@@ -1,5 +1,5 @@
-d5914c470b14eb0ba12e04c2e015d597 *ChangeLog
-4070c07d15184c58c324597b93dae6c2 *DESCRIPTION
+26928b8125b381a8eb705d93ae6bc212 *ChangeLog
+2e329b1b28fcd58396a6b8f035f69277 *DESCRIPTION
 1a5313ea9a4d45d584aed454e4c9c1d4 *NAMESPACE
 c1be51305e563585c54ba96ae04e24e0 *data/ausgdp.rda
 e83656a05d26c2f4dc3c27d973ae1bcc *data/bonds.rda
@@ -35,14 +35,14 @@ d9f375e41b599856a4947b6a99964ba0 *man/cangas.Rd
 5785af39525cd573d812022ef9809507 *man/enplanements.Rd
 040daf8ae72e891cd1d25fc88933fc74 *man/expsmooth-package.Rd
 c0c1ee41130a5e11cf39799eddd30ece *man/fmsales.Rd
-abafb60c784490897e425edb191fa51f *man/freight.Rd
+cc1a0bc408794abe0e2a55896b3de401 *man/freight.Rd
 570a523bda163d8049c6790cbef69b89 *man/frexport.Rd
-9af75ac30b21a6f8093142c9b13ddab6 *man/gasprice.Rd
+dbe9fdba61bc39067d08d625e2f2341d *man/gasprice.Rd
 942f92302825f1590151295efef11c18 *man/hospital.Rd
 41d864d227c074f7708b1011ebe242c6 *man/jewelry.Rd
 15285486758242ed332ad13950138314 *man/partx.Rd
 320ec2397ff137d4b1ed19fa1681b72f *man/sales.Rd
-aa7059dd17a70c956eec2e9be25f460f *man/ukcars.Rd
+1b65b6047dcb16413807bd286dd5a1c5 *man/ukcars.Rd
 ad85517e7463925316762c0be8e46572 *man/unempcci.Rd
 7603734b55c082bab2156726e9ddb4fa *man/uselec.Rd
 ebc13a629b49d3c69f2255687e8c8763 *man/usgdp.Rd
